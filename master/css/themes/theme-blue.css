@@ -1,0 +1,70 @@
+﻿.theme-blue .navbar {
+    background-color: #7f19b3; 
+    background-color: #4e0367;
+    background: url(../../../img/hero-slide-gride-blue.jpg) center;
+}
+
+.theme-blue .navbar-brand {
+    color: #fff; }
+.theme-blue .navbar-brand:hover {
+    color: #fff; }
+.theme-blue .navbar-brand:active {
+    color: #fff; }
+.theme-blue .navbar-brand:focus {
+    color: #fff; }
+
+.theme-blue .nav > li > a {
+    color: #fff; }
+.theme-blue .nav > li > a:hover {
+    background-color: transparent; }
+.theme-blue .nav > li > a:focus {
+    background-color: transparent; }
+
+.theme-blue .nav .open > a {
+    background-color: transparent; }
+.theme-blue .nav .open > a:hover {
+    background-color: transparent; }
+.theme-blue .nav .open > a:focus {
+    background-color: transparent; }
+
+.theme-blue .bars {
+    color: #fff; }
+
+.theme-blue .sidebar .menu .list li.active {
+    background-color: transparent; }
+.theme-blue .sidebar .menu .list li.active > :first-child i, .theme-blue .sidebar .menu .list li.active > :first-child span {
+    color: #ffb300; }
+
+.theme-blue .sidebar .menu .list .toggled {
+    background-color: transparent; }
+
+.theme-blue .sidebar .menu .list .ml-menu {
+    background-color: transparent; }
+
+.theme-blue .sidebar .legal {
+    background-color: #1a0931; 
+    color: #cccccc;
+}
+.sidebar .legal{
+        border: none;
+}
+.sidebar .legal .copyright{
+    color: #cccccc;
+}
+.theme-blue .sidebar .legal .copyright a {
+    color: #ffffff !important; 
+}
+.sidebar .menu { 
+    background: #4C3469;
+}
+
+.sidebar .menu .list a span ,.sidebar .menu .list a { 
+    color: #fff; 
+}
+.sidebar .menu .list .header {
+    background: #ffb300;
+    font-size: 12px;
+    font-weight: 600;
+    padding: 8px 16px;
+    color: white;
+}
